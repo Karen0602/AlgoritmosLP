@@ -1,2 +1,2 @@
 # AlgoritmosLP
-Atividades das aulas de Algoritmos e Lógica de Programação da FATEC de Votorantim
+Atividades das aulas de Algoritmos e Lógica de Programação  do curso de DSM da FATEC de Votorantim
